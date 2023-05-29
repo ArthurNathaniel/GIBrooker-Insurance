@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+}
+
+.navbar {
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #FFF;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+
+.navbar-nav {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 300px;
+    height: 70px;
+    background-image: url(.//images/logo.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar a {
+    color: #242263;
+    color: #000;
+}
+
+.navbar a:hover {
+    font-weight: 600;
+    color: #000;
+}
+
+.btn button {
+    padding: 15px 45px;
+    background-color: #242263;
+    border: none;
+    color: #fff;
+    border-radius: 999px;
+    transition: transform 0.3s ease;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.btn button:hover {
+    transform: perspective(500px) rotateY(30deg);
+}
+
+/*  Hero page */
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.swiper-text{
+    border: 2px solid salmon;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: left;
+    align-self: left;
+    text-align: left;
+    padding-left:5% ;
+   
+}
+
+.swiper-text h1{
+    width: 40%;
+    border-left: 5px solid salmon;
+}
