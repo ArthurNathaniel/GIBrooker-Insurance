@@ -18,9 +18,9 @@
                         About Us <i class="fa-solid fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="">About Us</a></li>
-                        <li><a class="dropdown-item" href="">Mission & Vision</a></li>
-                        <li><a class="dropdown-item" href="">Our Board</a></li>
+                        <li><a class="dropdown-item" href="about.php">About Us</a></li>
+                        <li><a class="dropdown-item" href="mission_and_vision.php">Mission & Vision</a></li>
+                        <li><a class="dropdown-item" href="our_board.php">Our Board</a></li>
                         <li><a class="dropdown-item" href="">Our Approach</a></li>
                     </ul>
                 </li>

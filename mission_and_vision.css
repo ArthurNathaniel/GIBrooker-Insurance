@@ -1,0 +1,74 @@
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 75vh;
+    object-fit: cover;
+}
+
+.mission-grid {
+    margin-top: 50px;
+    padding: 0 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.one {
+    width: 500px;
+    height: 500px;
+    padding: 95%px;
+    background-color: #232163;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    border: 10px solid #e5af12;
+    padding: 0 10%;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    margin: 0 auto;
+    color: #FFF;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.one h1 {
+    padding-top: 50px;
+    padding: 0 10%;
+}
+
+.one p {
+    text-align: center;
+}
+
+.another {
+    margin-bottom: 50px;
+}
+
+.me {
+    width: 750px;
+    height: 710px;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 2px solid salmon;
+    padding: 0 5%;
+    padding-block: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #232163;
+    color: #FFF;
+    border: 10px solid #e5af12;}
+.icon{
+    display: flex;
+        justify-content: flex-end;
+        border: 2px solid;
+        width: 100%;
+        top: 60;
+        margin-left: 40%;
+}
+    .icon h1{
+
+    }
