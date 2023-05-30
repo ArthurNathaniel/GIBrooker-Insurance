@@ -413,3 +413,9 @@ footer {
     font-weight: 600;
     color: #eee;
 }
+
+.lasst{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #232162;
+}

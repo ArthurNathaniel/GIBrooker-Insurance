@@ -21,7 +21,7 @@
                         <li><a class="dropdown-item" href="about.php">About Us</a></li>
                         <li><a class="dropdown-item" href="mission_and_vision.php">Mission & Vision</a></li>
                         <li><a class="dropdown-item" href="our_board.php">Our Board</a></li>
-                        <li><a class="dropdown-item" href="">Our Approach</a></li>
+                        <li><a class="dropdown-item" href="our_approach.php">Our Approach</a></li>
                     </ul>
                 </li>
                 <!-- <li class="nav-item">
@@ -31,10 +31,10 @@
                     <a class="nav-link" href="">Our Services</a>
                 </li>
                 <div class="nav-item">
-                    <a class="nav-link" href="">Claims</a>
+                    <a class="nav-link" href="claims.php">Claims</a>
                 </div>
                 <li class="nav-item">
-                    <a class="nav-link" href="">FAQs</a>
+                    <a class="nav-link" href="faqs.php">FAQs</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="contact.php">Contact Us</a>
@@ -42,7 +42,8 @@
             </ul>
             <div class="d-flex btn">
                 <button>
-                    Get a Quote</button>
+                    <a href="get_a_quote.php" style="text-decoration: none; color:#FFF;">Get a Quote</a>
+                </button>
             </div>
         </div>
     </div>

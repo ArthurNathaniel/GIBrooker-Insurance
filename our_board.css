@@ -4,3 +4,51 @@
     height: 75vh;
     object-fit: cover;
 }
+.swiper-text{
+    width: 100%;
+}
+.swiper-text p{
+    width: 40%;
+}
+
+.profile{
+    padding: 0 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 50px;
+}
+
+.profile-img{
+    width: 95%;
+    height: 500px;
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.profile-text{
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-self: center;
+        text-align: left;
+}
+.profile-text h4{
+    text-align: left;
+    width: 100%;
+}
+
+.ceo{
+    background-image: url(./images/ceo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    width: 500px;
+    border-radius: 50%;
+}
+

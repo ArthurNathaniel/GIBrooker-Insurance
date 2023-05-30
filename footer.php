@@ -7,7 +7,7 @@
                 <br>
                 <p style="color:#FFF;">
                     Thank you for visiting our site! We hope you found everything you were looking for.
-                    
+
                 </p>
             </div>
             <div class="col-md-3 links">
@@ -21,7 +21,7 @@
                 <br>
                 <a href="">Claims</a>
                 <br>
-               
+
 
 
 
@@ -50,6 +50,8 @@
                 <br>
                 <a href=""><i class="far fa-clock"></i> 9am to 5pm (Monday to Friday)</a>
             </div>
-        </div>
 
+        </div>
     </footer>
+
+    

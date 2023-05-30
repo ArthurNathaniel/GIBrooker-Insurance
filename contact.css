@@ -1,0 +1,63 @@
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 75vh;
+    object-fit: cover;
+}
+
+.swiper-text p {
+    width: 40%;
+}
+
+.contact {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 5%;
+    margin-top: 50px;
+}
+
+.contact input {
+    margin-bottom: 20px;
+    width: 100%;
+    height: 45px;
+}
+
+.contact textarea {
+    width: 100%;
+}
+
+.claims-submit {
+    border: 5px solid salmon;
+}
+
+
+.cc input {
+    background-color: #242263;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    height: 70px;
+    margin-top: 20px;
+}
+
+.set {
+    background-color: #fff;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    margin-bottom: 20px;
+    padding: 0 7%;
+    padding-block: 15px;
+
+}
+
+.set a {
+    text-decoration: none !important;
+    color: #242263;
+}
+
+.set p {
+    color: #242263;
+}
+
+footer{
+    margin-top: 50px;
+}
