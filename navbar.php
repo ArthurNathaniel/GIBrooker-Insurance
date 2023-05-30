@@ -28,7 +28,7 @@
                     <a class="nav-link" href="ministries.php">Ministries</a>
                 </li> -->
                 <li class="nav-item">
-                    <a class="nav-link" href="">Our Services</a>
+                    <a class="nav-link" href="services.php">Our Services</a>
                 </li>
                 <div class="nav-item">
                     <a class="nav-link" href="claims.php">Claims</a>

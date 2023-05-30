@@ -88,7 +88,7 @@
     <section>
         <div class="about-us row">
             <div class="col-md-5">
-                <img src="https://placehold.jp/650x500.png" alt="" style="width: 95%;">
+                <img src="images/about.jpg" alt="" style="width: 95%;">
             </div>
             <div class="col-md-7">
                 <h1>About Us</h1>
@@ -112,7 +112,7 @@
     <section>
         <div class="services-home">
             <div class="card">
-                <img class="card-img-top" src="https://placehold.jp/300x200.png" alt="personal-insurance" style="width:100%">
+                <img class="card-img-top" src="images/personal.jpg" alt="personal-insurance" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Personal Insurance</h4>
                     <p class="card-text">Personal insurance provides financial protection for individuals and their families
@@ -122,7 +122,7 @@
             </div>
 
             <div class="card">
-                <img class="card-img-top" src="https://placehold.jp/300x200.png" alt="personal-insurance" style="width:100%">
+                <img class="card-img-top" src="images/business.jpg" alt="personal-insurance" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Business Insurance</h4>
                     <p class="card-text">Business insurance safeguards companies and their assets by providing financial protection
@@ -132,7 +132,7 @@
             </div>
 
             <div class="card">
-                <img class="card-img-top" src="https://placehold.jp/300x200.png" alt="personal-insurance" style="width:100%">
+                <img class="card-img-top" src="images/life.jpg" alt="personal-insurance" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Life Insurance</h4>
                     <p class="card-text">Life insurance provides financial security for individuals and loved ones, meeting
@@ -142,7 +142,7 @@
             </div>
 
             <div class="card">
-                <img class="card-img-top" src="https://placehold.jp/300x200.png" alt="personal-insurance" style="width:100%">
+                <img class="card-img-top" src="images/health.jpg" alt="personal-insurance" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Health Insurance</h4>
                     <p class="card-text">Health insurance covers medical expenses, providing access to quality healthcare and
