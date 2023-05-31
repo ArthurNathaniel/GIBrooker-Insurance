@@ -17,13 +17,11 @@
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="./images/our_board.jpg" alt="">
+                    <img src="./images/our_approach.jpg" alt="">
                     <div class="swiper-text">
-                        <h1>Our Board of Directions</h1>
+                        <h1>Our Approach</h1>
                         <p>
-                            Through our experienced and dedicated staff, supported by a diverse and
-                            distinguished Board of Directors, we provide exceptional customer service
-                            and expert advice to our valued clients.
+                             Goldstar Insurance Broker Ltd excels in tailoring insurance solutions to meet the distinct needs of individuals and businesses alike.
                         </p>
                     </div>
                 </div>
@@ -112,4 +110,4 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 
-</html> 
+</html>

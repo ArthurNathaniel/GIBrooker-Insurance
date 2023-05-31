@@ -5,7 +5,7 @@
     <?php include 'meta.php'; ?>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
 
-    <title>Home - Goldstar Insurance Brokers Ltd</title>
+    <title>About Us - Goldstar Insurance Brokers Ltd</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="about.css">
 </head>
@@ -17,10 +17,10 @@
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="./images/about_us.jpg" alt="">
+                    <img src="./images/about_banner.jpg" alt="">
                     <div class="swiper-text">
                         <h6> Welcome to Goldstar Insurance Brokers</h6>
-                        <h1>THE STORY OF GOLDSTAR INSURANCE BROKERS LTD</h1>
+                        <h1>The Story of Goldstar Insurance Brokers Ltd</h1>
                     </div>
                 </div>
             </div>
@@ -30,8 +30,8 @@
 
     <section>
         <div class="about_us">
-            <h1>ABOUT GOLDSTAR</h1>
-            <h5>THE JOURNEY OF GOLDSTAR INSURANCE BROKERS LTD</h5>
+            <h1>About Goldstar</h1>
+            <h5>The Journey of Goldstar Insurance Brokers Ltd</h5>
             <p>
                 Goldstar Insurance Brokers Ltd. (Goldstar) was established in March 2018 as an Indigenous
                 Insurance Broker and Risk Management Consultancy. We are licensed by the National Insurance

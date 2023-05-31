@@ -22,27 +22,14 @@
                         <h1>Find Your Secured Future In Goldstar Insurance Brokers</h1>
 
                         <div class="button-div" style="  width: 100%; display: flex; justify-content: left;  align-items: flex-start; left: 0; gap:20px;">
-                            <button class="button-28" role="button"> <a href="our-service.php"></a> Our Services</button>
+                            <button class="button-28" role="button"> <a href="services.php">Our Services</a> </button>
                             <button class="button-28" role="button">
                                 <a href="contact.php">Contact Us</a>
                             </button>
                         </div>
                     </div>
                 </div>
-                <!-- <div class="swiper-slide">
-                    <img src="./images/about_cover.jpg" alt="">
-                    <div class="swiper-text" style="color: #fff;">
-                        <h6> Welcome to Goldstar Insurance Brokers</h6>
-                        <h1>Find Your Secured Future In Goldstar Insurance Brokers</h1>
 
-                        <div class="button-div" style="  width: 100%; display: flex; justify-content: left;  align-items: flex-start; left: 0; gap:20px;">
-                            <button class="button-28" role="button"> <a href="our-service.php"></a> Our Service</button>
-                            <button class="button-28" role="button">
-                                <a href="contact.php">Contact Us</a>
-                            </button>
-                        </div>
-                    </div>
-                </div> -->
                 <div class="swiper-slide">
                     <img src="./images/back-24.jpg" alt="">
                     <div class="swiper-text">
@@ -50,7 +37,7 @@
                         <h1>Find Your Secured Future In Goldstar Insurance Brokers</h1>
 
                         <div class="button-div" style="  width: 100%; display: flex; justify-content: left;  align-items: flex-start; left: 0; gap:20px;">
-                            <button class="button-28" role="button"> <a href="our-service.php"></a> Our Services</button>
+                            <button class="button-28" role="button"> <a href="services.php">Our Services</a> </button>
                             <button class="button-28" role="button">
                                 <a href="contact.php">Contact Us</a>
                             </button>
@@ -67,20 +54,27 @@
             <div class="contact-info">
 
                 <div class="info">
-                    <p> <i class="fab fa-whatsapp"></i> / <i class="fas fa-phone"></i> :
-                        <br>
+                    <h4>Contact Info:</h4>
+                    <p> <i class="fab fa-whatsapp"></i> /<i class="fas fa-phone"></i>
                         020 565 6666
                     </p>
-                    <p>
-                        (Monday - Friday)
-                    </p>
+
+
+
+
+
                 </div>
             </div>
             <div class="mail-info">
+                <h4>Email Address:</h4>
+                <p>
+                    <i class="far fa-envelope"></i> info@gibrokers.com</a>
+                </p>
 
             </div>
             <div class="open-info">
-
+                <h4>Opening Hours</h4>
+                <p><i class="far fa-clock"></i> 9am to 5pm (Monday to Friday)</p>
             </div>
         </div>
     </section>

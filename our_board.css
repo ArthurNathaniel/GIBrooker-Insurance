@@ -1,16 +1,21 @@
 .swiper-slide img {
     display: block;
     width: 100%;
-    height: 75vh;
+    height: 85vh;
     object-fit: cover;
-}
-.swiper-text{
-    width: 100%;
-}
-.swiper-text p{
-    width: 40%;
+    margin-bottom: 40px;
 }
 
+.swiper-text {
+    color: #FFF;
+    width: 100%;
+
+}
+
+.swiper-text p,
+.swiper-text h1 {
+    width: 40%;
+}
 .profile{
     padding: 0 5%;
     display: grid;

@@ -17,7 +17,7 @@
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="./images/our_board.jpg" alt="">
+                    <img src="./images/board-of-directors.jpg" alt="">
                     <div class="swiper-text">
                         <h1>Our Board of Directions</h1>
                         <p>

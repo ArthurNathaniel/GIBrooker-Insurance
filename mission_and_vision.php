@@ -17,9 +17,9 @@
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="./images/mission_and_vision.jpg" alt="">
+                    <img src="./images/vision-mission-and-core-values.jpg" alt="">
                     <div class="swiper-text">
-                        <h1>VISION, MISSION AND CORE VALUES</h1>
+                        <h1>Vision, Mission & Core Values</h1>
                         <p>We strive to empower individuals and communities to reach their full potential through our products and services.</p>
                     </div>
                 </div>
