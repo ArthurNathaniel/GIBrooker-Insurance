@@ -5,6 +5,9 @@
     object-fit: cover;
 }
 
+.swiper-text{
+    color: #fff;
+}
 .swiper-text p {
     width: 40%;
 }
@@ -58,14 +61,22 @@ label {
     transform: perspective(500px) rotateY(30deg);
 }
 
-span{
-    color: salmon;
-}
+
 
 @media (max-width:957px) {
     .claims-form {
         width: 90%;
         padding: 5%;
         padding-block: 10%;
+    }
+    .swiper-text{
+        width: 100%;
+        padding: 0 5%;
+    }
+    .swiper-text h1{
+        width: 100%;
+    }
+    .swiper-text p{
+        width: 100%;
     }
 }

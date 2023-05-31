@@ -5,7 +5,7 @@
     <?php include 'meta.php'; ?>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
 
-    <title>Claims - Goldstar Insurance Brokers Ltd</title>
+    <title>Get a Quote Goldstar Insurance Brokers Ltd</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="get_a_quote.css">
 </head>
@@ -17,12 +17,11 @@
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="./images/our_board.jpg" alt="">
+                    <img src="./images/quote.jpg" alt="">
                     <div class="swiper-text">
-                        <h1>Claims</h1>
+                        <h1>Get a Quote</h1>
                         <p>
-                            At Goldstar with a team of experts and a commitment to quality, we strive to
-                            deliver excellence in everything we do. Trust us to be your partner in success.
+                            Get a personalized insurance quote tailored to your needs today.
                         </p>
                     </div>
                 </div>
@@ -35,7 +34,7 @@
             <h2>Get a Quote</h2>
             <p>
                 Please utilize the form provided below to request a quote.
-                 We will promptly respond to your inquiry. </p>
+                We will promptly respond to your inquiry. </p>
             <div class="claims">
                 <form action="">
                     <div class="claims-input">

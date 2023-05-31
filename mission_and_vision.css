@@ -6,14 +6,16 @@
 }
 
 
-.swiper-text{
+.swiper-text {
     color: #FFF;
     width: 100%;
 
 }
-.swiper-text p, .swiper-text h1{
+
+.swiper-text p,
+.swiper-text h1 {
     width: 40%;
-    text-transform:inherit
+    text-transform: inherit
 }
 
 .mission-grid {
@@ -24,17 +26,17 @@
 }
 
 .one {
-    width: 500px;
-    height: 500px;
-    padding: 95%px;
+    width: 90%;
+    height: 90%;
+
     background-color: #232163;
     border-radius: 50%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: left;
-    border: 10px solid #e5af12;
-    padding: 0 10%;
+    border: 5px solid #e5af12;
+    padding: 50px;
     align-items: center;
     align-self: center;
     text-align: center;
@@ -44,12 +46,12 @@
 }
 
 .one h1 {
-    padding-top: 50px;
-    padding: 0 10%;
+    width: 90%;
 }
 
 .one p {
     text-align: center;
+    width: 90%;
 }
 
 .another {
@@ -57,39 +59,64 @@
 }
 
 .me {
-    width: 750px;
-    height: 710px;
-    margin: 0 auto;
+    width: 90%;
+    height: 90%;
+    background-color: #232163;
     border-radius: 50%;
-    border: 2px solid salmon;
-    padding: 0 5%;
-    padding-block: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    text-align: left;
+    border: 5px solid #e5af12;
+    padding: 100px;
     align-items: center;
+    align-self: center;
     text-align: center;
-    background-color: #232163;
+    margin: 0 auto;
     color: #FFF;
-    border: 10px solid #e5af12;}
-.icon{
-    display: flex;
-        justify-content: flex-end;
-        border: 2px solid;
-        width: 100%;
-        top: 60;
-        margin-left: 40%;
+
 }
-   
-@media (max-width:957px) {
-.mission-grid{
-    display: block;
-    width: 100%;
-    margin: 0 auto;
+
+.me h1 {
+    width: 90%;
 }
-.one{
-    margin-bottom: 50px;
+
+.me p {
     text-align: center;
-    margin: 0 auto;
+    width: 90%;
 }
+
+.icon {
+    display: flex;
+    justify-content: flex-end;
+    border: 2px solid;
+    width: 100%;
+    top: 60;
+    margin-left: 40%;
+}
+
+@media (max-width:957px) {
+    .swiper-text{
+        width: 100%;
+        padding: 0 5%;
+    }
+    .swiper-text p, .swiper-text h1{
+        width: 100%;
+    }
+    .mission-grid {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .one {
+        margin-bottom: 50px;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .me{
+        margin-top: 50px;
+    }
+
 }

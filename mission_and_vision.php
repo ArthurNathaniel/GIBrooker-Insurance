@@ -38,9 +38,6 @@
                     this end, we shall be guided by our values of integrity, professionalism and a commitment to
                     people and all our stakeholders.
                 </p>
-                <div class="icon">
-                    <h1 ><i class="fas fa-eye"></i></h1>
-                </div>
             </div>
             <div class="one">
                 <h1>OUR MISSION</h1>
@@ -78,7 +75,7 @@
             </div>
         </div>
     </section>
-    <?php include 'call_to_action.php'; ?>
+    
     <?php include './footer.php'; ?>
     <!-- Swiper JS -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
