@@ -510,6 +510,7 @@ footer {
         display: block;
         width: 100%;
         margin: 0 auto;
+        margin-top: 330px;
     }
 
     .about-imgg {
@@ -523,6 +524,17 @@ footer {
         display: block;
         width: 100%;
         margin: 0 auto;
+    }
+    .company-details{
+        display: block;
+        width: 90%;
+       margin: 0 5%;
+
+    }
+    .mail-info{
+        border-top: 2px solid #e5af12;
+        border-bottom: 2px solid #e5af12;
+        margin-bottom: 20px;
     }
 }
 

@@ -5,7 +5,7 @@
     <?php include 'meta.php'; ?>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
 
-    <title>Our Mission & Vision - Goldstar Insurance Brokers Ltd</title>
+    <title>Our Board - Goldstar Insurance Brokers Ltd</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="our_board.css">
 </head>

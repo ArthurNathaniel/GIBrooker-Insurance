@@ -28,6 +28,9 @@
     padding: 35px;
     margin-top: 50px;
 }
+.one h3{
+    color: #232163;
+}
 
 @media (max-width:957px) {
     .our_approach{

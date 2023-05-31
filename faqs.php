@@ -17,12 +17,11 @@
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="./images/our_board.jpg" alt="">
+                    <img src="./images/faqs.jpg" alt="">
                     <div class="swiper-text">
                         <h1>FAQs</h1>
                         <p>
-                            At Goldstar with a team of experts and a commitment to quality, we strive to
-                            deliver excellence in everything we do. Trust us to be your partner in success.
+                            Browse our FAQs for quick answers to commonly asked questions.
                         </p>
                     </div>
                 </div>
@@ -57,9 +56,9 @@
                     </h2>
                     <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
                         <div class="accordion-body">
-                            At Goldstar, our job is to assess your risks and exposures and engage the market 
-                            for the products that will best protect 
-                            you against losses at the most competitive rates. In the event of a loss, we facilitate 
+                            At Goldstar, our job is to assess your risks and exposures and engage the market
+                            for the products that will best protect
+                            you against losses at the most competitive rates. In the event of a loss, we facilitate
                             the claims process to ensure that your valid claims are paid promptly.
                         </div>
                     </div>

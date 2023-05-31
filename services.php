@@ -20,7 +20,7 @@
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="./images/services.png" alt="">
+                    <img src="./images/services_banner.jpg" alt="">
                     <div class="swiper-text">
                         <h1>Our Services</h1>
                         <p>

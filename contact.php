@@ -5,7 +5,7 @@
     <?php include 'meta.php'; ?>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
 
-    <title>Claims - Goldstar Insurance Brokers Ltd</title>
+    <title>Contact Us - Goldstar Insurance Brokers Ltd</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="contact.css">
 </head>
@@ -17,7 +17,7 @@
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="./images/our_board.jpg" alt="">
+                    <img src="./images/contact.jpg" alt="">
                     <div class="swiper-text">
                         <h1>Contact Us</h1>
                         <p>

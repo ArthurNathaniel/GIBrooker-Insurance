@@ -5,7 +5,7 @@
     <?php include 'meta.php'; ?>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
 
-    <title>Our Mission & Vision - Goldstar Insurance Brokers Ltd</title>
+    <title>Our Approach - Goldstar Insurance Brokers Ltd</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="our_approach.css">
 </head>
@@ -21,7 +21,8 @@
                     <div class="swiper-text">
                         <h1>Our Approach</h1>
                         <p>
-                             Goldstar Insurance Broker Ltd excels in tailoring insurance solutions to meet the distinct needs of individuals and businesses alike.
+                            Goldstar Insurance Broker Ltd excels in tailoring insurance solutions to meet the distinct needs of
+                            individuals and businesses alike.
                         </p>
                     </div>
                 </div>
@@ -31,7 +32,7 @@
 
     <section>
         <div class="approach">
-            <h1 class="text-center">The Goldstar Approach</h1>
+            <h1 class="text-center" style="color:#232163;">The Goldstar Approach</h1>
             <p>
                 At Goldstar Insurance Brokers Ltd., we offer a comprehensive range of services to meet your
                 insurance needs. From customized insurance solutions and risk management services to
