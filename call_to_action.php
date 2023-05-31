@@ -1,4 +1,4 @@
-   <section class="cta-section">
+   <section class="cta-section" data-aos="zoom-out-down" data-aos-duration="1000">
        <div class="container">
            <h2 class="cta-heading">Contact Us Today</h2>
            <p class="cta-description">Discover how we can assist you. Contact us now for a personalized insurance solution.</p>

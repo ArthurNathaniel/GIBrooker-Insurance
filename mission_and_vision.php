@@ -18,18 +18,18 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <img src="./images/vision-mission-and-core-values.jpg" alt="">
-                    <div class="swiper-text">
+                    <div class="swiper-text" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
                         <h1>Vision, Mission & Core Values</h1>
                         <p>We strive to empower individuals and communities to reach their full potential through our products and services.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section> 
+    </section>
 
     <section>
         <div class="mission-grid">
-            <div class="one">
+            <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                 <h1>OUR VISION</h1>
                 <p>
                     The founders of Goldstar Insurance Brokers Ltd envisions an innovative company for insurance
@@ -39,7 +39,7 @@
                     people and all our stakeholders.
                 </p>
             </div>
-            <div class="one">
+            <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
                 <h1>OUR MISSION</h1>
                 <p>
                     To deploy the talents and experiences of our team in offering comprehensive and reliable
@@ -50,7 +50,7 @@
             </div>
         </div>
         <div class="another text-center">
-            <div class="me">
+            <div class="me" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <h1>OUR CORE VALUES</h1>
                 <p>
                     <b>1. Integrity:</b> operate in a fair, transparent and equitable manner by ensuring that
@@ -75,7 +75,7 @@
             </div>
         </div>
     </section>
-    
+
     <?php include './footer.php'; ?>
     <!-- Swiper JS -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>

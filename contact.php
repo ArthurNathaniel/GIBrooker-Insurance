@@ -18,7 +18,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <img src="./images/contact.jpg" alt="">
-                    <div class="swiper-text">
+                    <div class="swiper-text" data-aos="fade-up" data-aos-anchor-placement="bottom-bottom">
                         <h1>Contact Us</h1>
                         <p>
                             Feel free to contact us for any inquiries or assistance.
@@ -31,7 +31,7 @@
 
     <section>
         <div class="contact">
-            <div class="one">
+            <div class="one" >
                 <h2>Get in Touch</h2>
                 <strong>Send us a Message</strong>
                 <p>You can easily get in touch with us by sending a message.
@@ -57,7 +57,7 @@
                     </div>
                 </div>
             </div>
-            <div class="one">
+            <div class="one" >
 
                 <div class="set">
                     <h2><i class="fas fa-phone"></i></h2>

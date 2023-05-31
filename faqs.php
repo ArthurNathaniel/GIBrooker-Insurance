@@ -18,7 +18,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <img src="./images/faqs.jpg" alt="">
-                    <div class="swiper-text">
+                    <div class="swiper-text" data-aos="zoom-out" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="500">
                         <h1>FAQs</h1>
                         <p>
                             Browse our FAQs for quick answers to commonly asked questions.
@@ -32,7 +32,7 @@
 
     <section>
         <div class="faq">
-            <div class="accordion accordion-flush" id="accordionFlushExample">
+            <div class="accordion accordion-flush" id="accordionFlushExample" data-aos="fade-left" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="500">
                 <div class="accordion-item">
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
@@ -48,7 +48,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="accordion-item">
+                <div class="accordion-item" data-aos="fade-left" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="500">
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
                             Why Do I need a Broker?

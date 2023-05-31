@@ -17,7 +17,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <img src="./images/cube22.jpg" alt="">
-                    <div class="swiper-text">
+                    <div class="swiper-text" data-aos-duration="1000"  data-aos="zoom-in-down">
                         <h6> Welcome to Goldstar Insurance Brokers</h6>
                         <h1>Find Your Secured Future In Goldstar Insurance Brokers</h1>
 
@@ -50,7 +50,7 @@
     </section>
 
     <section id="c-details">
-        <div class="company-details">
+        <div class="company-details" data-aos-duration="1000" data-aos="zoom-in">
             <div class="contact-info">
 
                 <div class="info">
@@ -81,10 +81,10 @@
 
     <section>
         <div class="about-us row gy-5">
-            <div class="col-md-5 about-imgg">
+            <div class="col-md-5 about-imgg" data-aos-duration="1000" data-aos="fade-up">
                 <img src="images/about.jpg" alt="" style="width: 95%;">
             </div>
-            <div class="col-md-7 about-imgg">
+            <div class="col-md-7 about-imgg" data-aos="fade-down">
                 <h1>About Us</h1>
                 <h5>GOLDSTAR INSURANCE BROKERS LTD </h5>
                 <p>
@@ -104,7 +104,7 @@
     </section>
 
     <section>
-        <div class="services-home">
+        <div class="services-home" data-aos-duration="1000" data-aos="fade-right">
             <div class="card">
                 <img class="card-img-top" src="images/personal.jpg" alt="personal-insurance" style="width:100%">
                 <div class="card-body">
@@ -300,7 +300,7 @@
             </div>
             <div class="one">
 
-                <form action="" class="quote-forms">
+                <form action="" class="quote-forms" data-aos-duration="1000" data-aos="fade-left">
                     <h2 class="text-center">Request a Quote</h2>
                     <p>
                         Request a quote and explore how we can assist you. We strive to respond promptly.

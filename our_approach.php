@@ -18,7 +18,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <img src="./images/our_approach.jpg" alt="">
-                    <div class="swiper-text">
+                    <div class="swiper-text" data-aos-duration="1000" data-aos="zoom-in-down">
                         <h1>Our Approach</h1>
                         <p>
                             Goldstar Insurance Broker Ltd excels in tailoring insurance solutions to meet the distinct needs of
@@ -31,7 +31,7 @@
     </section>
 
     <section>
-        <div class="approach">
+        <div class="approach" data-aos-duration="1000" data-aos="zoom-out">
             <h1 class="text-center" style="color:#232163;">The Goldstar Approach</h1>
             <p>
                 At Goldstar Insurance Brokers Ltd., we offer a comprehensive range of services to meet your
@@ -46,7 +46,7 @@
 
     <section>
         <div class="our_approach">
-            <div class="one">
+            <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                 <h3>Risk management services</h3>
                 <p>
                     Our in-house Risk Management Services team renders customized services aimed at
@@ -57,7 +57,7 @@
                     independent risk assessors and engineers.
                 </p>
             </div>
-            <div class="one">
+            <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1400">
                 <h3>Claims handling and management</h3>
                 <p>
                     Our claims handling is noted for its promptness, fairness and quality. This achievement
@@ -67,7 +67,7 @@
                     commitment to customer satisfaction.
                 </p>
             </div>
-            <div class="one">
+            <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1800">
                 <h3>Insurance audit:</h3>
                 <p>
                     Customers’ risk exposures and insurance needs change from time-to-time. Therefore, as
@@ -76,7 +76,7 @@
                     make appropriate insurance and risk control recommendations.
                 </p>
             </div>
-            <div class="one">
+            <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <h3>Third-party capacity building</h3>
                 <p>
                     Some of our clients have in-house insurance units or officers tasked to handle the

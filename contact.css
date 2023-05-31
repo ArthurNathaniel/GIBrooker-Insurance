@@ -74,4 +74,10 @@ footer {
     .one{
         margin-top: 20px;
     }
+        .swiper-text h1,
+        .swiper-text p,
+        .swiper-text {
+            padding: 0 5%;
+            width: 100%;
+        }
 }

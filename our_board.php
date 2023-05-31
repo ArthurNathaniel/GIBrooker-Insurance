@@ -18,7 +18,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <img src="./images/board-of-directors.jpg" alt="">
-                    <div class="swiper-text">
+                    <div class="swiper-text" data-aos-duration="1000" data-aos="flip-left">
                         <h1>Our Board of Directions</h1>
                         <p>
                             Through our experienced and dedicated staff, supported by a diverse and
@@ -29,12 +29,12 @@
                 </div>
             </div>
         </div>
-    </section> 
+    </section>
 
     <section>
         <h1 class="text-center">Our Board of Directions</h1>
 
-        <div class="profile">
+        <div class="profile" data-aos-duration="1000" data-aos="zoom-in-down">
             <div class="profile-img">
 
             </div>
@@ -72,7 +72,7 @@
             </div>
         </div>
 
-        <div class="profile">
+        <div class="profile" data-aos-duration="1000" data-aos="zoom-in-down">
             <div class="profile-text">
                 <h4>Non Executive Director</h4>
                 <p>
@@ -105,7 +105,7 @@
             </div>
         </div>
 
-        <div class="profile" style="margin-bottom: 50px;">
+        <div class="profile" style="margin-bottom: 50px;" data-aos-duration="1000" data-aos="zoom-in">
             <div class="profile-img ceo">
 
             </div>
@@ -121,7 +121,7 @@
                     and Officers Liability program for Wells Fargo & Company, a fortune 100 company based
                     in the U.S.A. She also worked as an Insurance auditor with responsibility for the review
                     and placement of property and casualty policies for syndicated loans issued by Wells
-                    Fargo. 
+                    Fargo.
                     <br>
                     <br>
                     Mrs. Amakye Ansah holds an MBA from Metropolitan State University, Minneapolis, Minnesota.

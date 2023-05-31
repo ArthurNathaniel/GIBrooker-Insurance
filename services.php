@@ -5,7 +5,7 @@
 
 
     <?php include 'meta.php'; ?>
-    <title>Claims - Goldstar Insurance Brokers Ltd</title>
+    <title>Our Services- Goldstar Insurance Brokers Ltd</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="services.css">
 
@@ -21,7 +21,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <img src="./images/services_banner.jpg" alt="">
-                    <div class="swiper-text">
+                    <div class="swiper-text" data-aos="zoom-in" data-aos-offset="300" data-aos-easing="ease-in-sine">
                         <h1>Our Services</h1>
                         <p>
                             We aim to be industry leaders, delivering exceptional results and unmatched
@@ -29,13 +29,13 @@
                         </p>
                     </div>
                 </div>
-            </div> 
+            </div>
         </div>
     </section>
 
 
     <div class="service">
-        <div class="one">
+        <div class="one" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
             <div class="card2">
                 <img class="card-img-top" src="images/personal.jpg" alt="personal-insurance" style="width:100%">
                 <div class="card-body">
@@ -75,7 +75,7 @@
         </div>
 
         <div class="one">
-            <div class="card2">
+            <div class="card2" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
                 <img class="card-img-top" src="images/business.jpg" alt="personal-insurance" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Business Insurance</h4>
@@ -135,7 +135,7 @@
 
         <!-- life Insurance -->
         <div class="one">
-            <div class="card2">
+            <div class="card2" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
                 <img class="card-img-top" src="images/life.jpg" alt="personal-insurance" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Life Insurance</h4>
@@ -180,11 +180,11 @@
                     <div class="modal-footer">
                         <button type="button" class="button-86" data-bs-dismiss="modal">Close</button>
                     </div>
-                </div> 
+                </div>
             </div>
         </div>
 
-        <div class="one">
+        <div class="one" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
             <div class="card2">
                 <img class="card-img-top" src="images/health.jpg" alt="personal-insurance" style="width:100%">
                 <div class="card-body">

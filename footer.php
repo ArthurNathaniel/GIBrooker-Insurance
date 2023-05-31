@@ -1,5 +1,5 @@
     <footer>
-        <div class="row">
+        <div class="row" data-aos-duration="1000" data-aos="zoom-in-down">
             <div class="col-3 ftt">
                 <div class="footer-logo">
 
@@ -54,4 +54,12 @@
         </div>
     </footer>
 
-    
+    <!-- Animate on Scroll JS -->
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+
+    <!-- lightbox Script -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>

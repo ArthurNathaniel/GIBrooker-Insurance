@@ -63,9 +63,14 @@ label {
 }
 
 @media (max-width:957px) {
+    .swiper-text h1, .swiper-text p, .swiper-text{
+        padding: 0 5%;
+        width: 100%;
+    }
+    
     .claims-form {
         width: 90%;
         padding: 5%;
-        padding-block: 10%;
+  
     }
 }

@@ -18,7 +18,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <img src="./images/about_banner.jpg" alt="">
-                    <div class="swiper-text">
+                    <div class="swiper-text" data-aos-duration="1000" data-aos="zoom-in-down">
                         <h6> Welcome to Goldstar Insurance Brokers</h6>
                         <h1>The Story of Goldstar Insurance Brokers Ltd</h1>
                     </div>
@@ -29,7 +29,7 @@
 
 
     <section>
-        <div class="about_us">
+        <div class="about_us" data-aos-duration="1000" data-aos="zoom-in">
             <h1>About Goldstar</h1>
             <h5>The Journey of Goldstar Insurance Brokers Ltd</h5>
             <p>
@@ -50,21 +50,21 @@
             <h1 class="text-center">Why Goldstar:</h1>
         </div>
         <div class="about-grid">
-            <div class="one">
+            <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                 <h1><i class="fas fa-check-circle"></i></h1>
                 <h4>We offer Quality and Prompt Service</h4>
                 <p>
                     Goldstar Insurance Brokers Ltd. is committed to providing quality and prompt service to its clients.
                 </p>
             </div>
-            <div class="one">
+            <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
                 <h1><i class="fas fa-dollar-sign"></i></h1>
                 <h4>We offer competitive prices</h4>
                 <p>
                     Goldstar Insurance Brokers Ltd. offers competitive prices, ensuring affordability for our clients.
                 </p>
             </div>
-            <div class="one">
+            <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <h1><i class="fas fa-handshake"></i></h1>
                 <h4>We offer professional and Customer centrist products and services</h4>
                 <p>

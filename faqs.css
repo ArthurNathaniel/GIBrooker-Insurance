@@ -33,3 +33,13 @@
 footer {
     margin-top: 50px;
 }
+
+@media (max-width:957px) {
+  
+    .swiper-text h1,
+    .swiper-text p,
+    .swiper-text {
+        padding: 0 5%;
+        width: 100%;
+    }
+}

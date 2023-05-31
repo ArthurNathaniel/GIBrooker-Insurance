@@ -18,7 +18,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <img src="./images/claims.jpg" alt="">
-                    <div class="swiper-text">
+                    <div class="swiper-text" data-aos="zoom-out" data-aos-offset="300" data-aos-easing="ease-in-sine">
                         <h1>Claims</h1>
                         <p>
                             At Goldstar with a team of experts and a commitment to quality, we strive to
@@ -31,7 +31,7 @@
     </section>
 
     <section>
-        <div class="claims-form">
+        <div class="claims-form" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
             <h2>Report a claim</h2>
             <p>
                 Please use the form below to submit claims online. We will get back to you as soon as possible.
@@ -41,17 +41,17 @@
                     <div class="claims-input">
                         <label>Name:</label>
                         <br>
-                        <input type="text" placeholder="Enter your email address">
+                        <input type="text" placeholder="Enter your name">
                     </div>
                     <div class="claims-input">
                         <label>Address:</label>
                         <br>
-                        <input type="text" placeholder="Enter your email address">
+                        <input type="text" placeholder="Enter your  address">
                     </div>
                     <div class="claims-input">
                         <label>Phone number:</label>
                         <br>
-                        <input type="number" min="0" placeholder="Enter your email address">
+                        <input type="number" min="0" placeholder="Enter your phone number">
                     </div>
                     <div class="claims-input">
                         <label>Email:</label>
@@ -73,9 +73,9 @@
                             <option value="">Professional Indemnity Insurance</option>
                             <option value="">Assets Alll Risk Insurance</option>
                             <option value="">All Bonds Insurance</option>
-                    <div class="claims-submit">
-                        <input type="submit" value="Submit">
-                    </div>
+                            <div class="claims-submit">
+                                <input type="submit" value="Submit" style="background-color: #242263; color:#FFF;">
+                            </div>
                 </form>
             </div>
         </div>
