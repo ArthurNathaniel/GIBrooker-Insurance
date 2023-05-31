@@ -1,5 +1,5 @@
     <footer>
-        <div class="row" data-aos-duration="1000" data-aos="zoom-in-down">
+        <div class="row" >
             <div class="col-3 ftt">
                 <div class="footer-logo">
 

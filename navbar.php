@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg sticky-top  bg-body-tertiary">
+<nav class="navbar navbar-expand-lg sticky-top ">
     <div class="container-fluid">
         <a class="navbar-brand" href="index.php">
             <div class="logo">
@@ -28,9 +28,7 @@
                         <li><a class="dropdown-item" href="our_approach.php">Our Approach</a></li>
                     </ul>
                 </li>
-                <!-- <li class="nav-item">
-                    <a class="nav-link" href="ministries.php">Ministries</a>
-                </li> -->
+
                 <li class="nav-item">
                     <a class="nav-link" href="services.php">Our Services</a>
                 </li>
@@ -52,3 +50,12 @@
         </div>
     </div>
 </nav>
+
+<style>
+    .navbar .nav-link,
+    .navbar .dropdown-item {
+        color: black;
+        background-color: #fff;
+        border-color: transparent;
+    }
+</style>

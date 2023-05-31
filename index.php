@@ -97,7 +97,7 @@
                     personalities drawn from diverse disciplines and business areas.
                 </p>
                 <div class="about-btn">
-                    <button class="button-86" role="button">Read more...</button>
+                    <button class="button-86" role="button">Read More...</button>
                 </div>
             </div>
         </div>
@@ -111,7 +111,7 @@
                     <h4 class="card-title">Personal Insurance</h4>
                     <p class="card-text">Personal insurance provides financial protection for individuals and their families
                         against unexpected events and risks.</p>
-                    <button class="button-86" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#personalModal">Read more...</button>
+                    <button class="button-86" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#personalModal">View Packages</button>
                 </div>
             </div>
 
@@ -149,7 +149,7 @@
                     <h4 class="card-title">Business Insurance</h4>
                     <p class="card-text">Business insurance safeguards companies and their assets by providing financial protection
                         against potential risks and liabilities.</p>
-                    <button class="button-86" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#businessModal">Read more...</a></button>
+                    <button class="button-86" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#businessModal">View Packages</a></button>
                 </div>
             </div>
 
@@ -210,7 +210,7 @@
                     <h4 class="card-title">Life Insurance</h4>
                     <p class="card-text">Life insurance provides financial security for individuals and loved ones, meeting
                         obligations after the policyholder's death.</p>
-                    <button class="button-86" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#lifeModal">Read more...</button>
+                    <button class="button-86" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#lifeModal">View Packages</button>
                 </div>
             </div>
 
@@ -257,7 +257,7 @@
                     <h4 class="card-title">Health Insurance</h4>
                     <p class="card-text">Health insurance covers medical expenses, providing access to quality healthcare and
                         financial protection against high costs.</p>
-                    <button class="button-86" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#healthModal">Read more...</button>
+                    <button class="button-86" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#healthModal">View Packages</button>
                 </div>
             </div>
 

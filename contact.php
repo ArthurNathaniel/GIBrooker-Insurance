@@ -31,33 +31,8 @@
 
     <section>
         <div class="contact">
-            <div class="one" >
-                <h2>Get in Touch</h2>
-                <strong>Send us a Message</strong>
-                <p>You can easily get in touch with us by sending a message.
-                </p>
-                <div class="row">
-                    <div class="col-md-6">
-                        <input type="text" placeholder="Enter your name">
-                    </div>
-                    <div class="col-md-6">
-                        <input type="email" placeholder="Enter your email address">
-                    </div>
-                    <div class="col-md-6">
-                        <input type="number" min="0" placeholder="Enter your phone number">
-                    </div>
-                    <div class="col-md-6">
-                        <input type="text" placeholder="Enter your subject">
-                    </div>
-                    <div class="col-12">
-                        <textarea name="" id="" cols="30" rows="10"></textarea>
-                    </div>
-                    <div class=" cc col-md-4">
-                        <input type="submit" value="Submit">
-                    </div>
-                </div>
-            </div>
-            <div class="one" >
+           
+            <div class="one bb" >
 
                 <div class="set">
                     <h2><i class="fas fa-phone"></i></h2>
