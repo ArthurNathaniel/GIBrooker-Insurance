@@ -34,8 +34,8 @@
         <div class="claims-form">
             <h2>Get a Quote</h2>
             <p>
-                Please use the form below to submit claims online. We will get back to you as soon as possible.
-            </p>
+                Please utilize the form provided below to request a quote.
+                 We will promptly respond to your inquiry. </p>
             <div class="claims">
                 <form action="">
                     <div class="claims-input">
@@ -57,7 +57,7 @@
                         <input type="number" min="0" placeholder="Enter your phone number / whatsapp number">
                     </div>
 
-                   
+
 
                     <div class="claims-submit">
                         <input type="submit" value="Get a Quote">

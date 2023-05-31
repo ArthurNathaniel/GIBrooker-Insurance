@@ -52,3 +52,12 @@
     border-radius: 50%;
 }
 
+
+@media (max-width:957px) {
+    .profile{
+        display: block;
+        width: 100%;
+        margin:0 auto;
+        margin-bottom: 50px;
+    }
+}

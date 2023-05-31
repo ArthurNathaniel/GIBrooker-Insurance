@@ -29,7 +29,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> 
 
     <section>
         <h1 class="text-center">Our Board of Directions</h1>
@@ -121,7 +121,7 @@
                     and Officers Liability program for Wells Fargo & Company, a fortune 100 company based
                     in the U.S.A. She also worked as an Insurance auditor with responsibility for the review
                     and placement of property and casualty policies for syndicated loans issued by Wells
-                    Fargo.
+                    Fargo. 
                     <br>
                     <br>
                     Mrs. Amakye Ansah holds an MBA from Metropolitan State University, Minneapolis, Minnesota.

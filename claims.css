@@ -39,20 +39,31 @@ label {
     border-radius: 5px;
 }
 
-.claims-submit{
+.claims-submit {
     width: 100%;
     text-align: left;
+    background-color: #232262;
 }
 
-.claims-submit input{
+.claims-submit input {
     padding: 15px 55px;
     border-radius: 5px;
     background-color: #e5af12;
     border: none;
     color: #fff;
+
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-        transition: transform 0.3s ease;
+    transition: transform 0.3s ease;
 }
-.claims-submit input:hover{
-        transform: perspective(500px) rotateY(30deg);
+
+.claims-submit input:hover {
+    transform: perspective(500px) rotateY(30deg);
+}
+
+@media (max-width:957px) {
+    .claims-form {
+        width: 90%;
+        padding: 5%;
+        padding-block: 10%;
+    }
 }

@@ -86,11 +86,11 @@
     </section>
 
     <section>
-        <div class="about-us row">
-            <div class="col-md-5">
+        <div class="about-us row gy-5">
+            <div class="col-md-5 about-imgg">
                 <img src="images/about.jpg" alt="" style="width: 95%;">
             </div>
-            <div class="col-md-7">
+            <div class="col-md-7 about-imgg">
                 <h1>About Us</h1>
                 <h5>GOLDSTAR INSURANCE BROKERS LTD </h5>
                 <p>

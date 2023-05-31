@@ -61,3 +61,11 @@ label {
 span{
     color: salmon;
 }
+
+@media (max-width:957px) {
+    .claims-form {
+        width: 90%;
+        padding: 5%;
+        padding-block: 10%;
+    }
+}

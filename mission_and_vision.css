@@ -69,6 +69,16 @@
         top: 60;
         margin-left: 40%;
 }
-    .icon h1{
-
-    }
+   
+@media (max-width:957px) {
+.mission-grid{
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+.one{
+    margin-bottom: 50px;
+    text-align: center;
+    margin: 0 auto;
+}
+}

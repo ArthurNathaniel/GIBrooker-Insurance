@@ -10,3 +10,27 @@
 .swiper-text p {
     width: 40%;
 }
+
+.service{
+    padding: 0 5%;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.one{
+    width: 95%;
+    margin-bottom: 50px;
+}
+.card2{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+
+@media (max-width:957px) {
+    .service{
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+}

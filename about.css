@@ -49,3 +49,15 @@
 .about-heading h1{
     color: #232163;
 }
+
+@media (max-width:957px) {
+    .about-grid{
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .one{
+        padding: 0 5%;
+        padding-block: 5%;
+    }
+}

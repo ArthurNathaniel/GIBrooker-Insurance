@@ -1,6 +1,6 @@
     <footer>
         <div class="row">
-            <div class="col-3">
+            <div class="col-3 ftt">
                 <div class="footer-logo">
 
                 </div>

@@ -25,3 +25,12 @@
     padding: 35px;
     margin-top: 50px;
 }
+
+@media (max-width:957px) {
+    .our_approach{
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+}
