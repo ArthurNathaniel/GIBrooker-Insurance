@@ -13,13 +13,13 @@
             <div class="col-md-3 links">
                 <h3>QUICK LINKS</h3>
 
-                <a href="">Home</a>
+                <a href="index.php">Home</a>
                 <br>
-                <a href="">About Us</a>
+                <a href="about.php">About Us</a>
                 <br>
-                <a href="">Services</a>
+                <a href="services.css">Services</a>
                 <br>
-                <a href="">Claims</a>
+                <a href="claims.php">Claims</a>
                 <br>
 
 
@@ -28,13 +28,13 @@
             </div>
             <div class="col-md-3 links">
                 <h3>OUR SERVICES</h3>
-                <a href="">Personal Insurance</a>
+                <a href="services.php">Personal Insurance</a>
                 <br>
-                <a href="">Business Insurance</a>
+                <a href="services.php">Business Insurance</a>
                 <br>
-                <a href="">Life Insurance</a>
+                <a href="services.php">Life Insurance</a>
                 <br>
-                <a href="">Health Insurance</a>
+                <a href="services.php">Health Insurance</a>
                 <br>
             </div>
             <div class="col-md-3 links">
