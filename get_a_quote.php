@@ -50,9 +50,14 @@
                     </div>
 
                     <div class="claims-input">
-                        <label>Phone number / WhatsApp *:</label>
+                        <label>Phone number *:</label>
                         <br>
-                        <input type="number" id="number" min="0" placeholder="Enter your phone number / whatsapp number" required>
+                        <input type="number" id="number" min="0" placeholder="Enter your phone number" required>
+                    </div>
+                    <div class="claims-input">
+                        <label>WhatsApp number *:</label>
+                        <br>
+                        <input type="number" id="w_number" min="0" placeholder="Enter your whatsapp number" required>
                     </div>
 
                     <div class="claims-submit">
@@ -133,11 +138,12 @@
                 name: document.getElementById('name').value,
                 email: document.getElementById('email').value,
                 number: document.getElementById('number').value,
+                w_number: document.getElementById('w_number').value,
 
             }
 
             const serviceID = 'service_fkuhb0h'
-            const templateID = 'template_307w5gb'
+            const templateID = 'template_u93sbvv'
 
             sbtb.value = 'please wait....'
             sbtb.setAttribute('disabled', true);
@@ -151,9 +157,10 @@
                     console.log('successfully');
                     document.getElementById('name').value = '',
                         document.getElementById('email').value = '',
-                        document.getElementById('number').value = ''
+                        document.getElementById('number').value = '',
+                        document.getElementById('w_number').value = '',
 
-                    sbtb.value = "Submit";
+                        sbtb.value = "Submit";
                     // sbtb.setAttribute('disabled', false);
                     sbtb.removeAttribute('disabled');
                 })

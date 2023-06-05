@@ -68,11 +68,10 @@
                             <option value="Fire Insurance">Fire Insurance</option>
                             <option value="Home Owner Insurance">Home Owner Insurance</option>
                             <option value="Health Insurance">Health Insurance</option>
-                            <option value="Assets All Insurance">Assets All Insurance</option>
                             <option value="Public Liability Insurance">Public Liability Insurance</option>
                             <option value="Professional Indemnity Insurance">Professional Indemnity Insurance</option>
-                            <option value="Assets Alll Risk Insurance">Assets Alll Risk Insurance</option>
-                            <option value="All Bonds Insurance">All Bonds Insurance</option>
+                            <option value="Assets Alll Risk Insurance">Assets All Risk Insurance</option>
+                            <option value="All Bonds Insurance"> Bonds</option>
                             <div class="claims-submit">
                                 <input type="submit" class="submit-btn" value="Submit" style="background-color: #242263; color:#FFF;">
                                 <input type="hidden" class="modal-input" name="" data-bs-toggle="modal" data-bs-target="#myModal">

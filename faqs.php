@@ -41,10 +41,12 @@
                     </h2>
                     <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
                         <div class="accordion-body">
-                            You as a client does not pay for the services we render as Insurance Brokers. Every Insurance
-                            Product purchased has a marketing expense built in and the insurance company uses this expense
-                            to pay commissions to brokers. The Broker commission rate is determined by the National Insurance
-                            Commission and it does not increase or decrease the premium you pay.
+                            You, as a client, do not pay for the services we render as
+                            insurance brokers. Every insurance product purchased has a
+                            marketing expense built in, and the insurance company uses
+                            this expense to pay commissions to brokers. The broker commission
+                            rate is determined by the National Insurance Commission, and it does
+                            not increase or decrease the premium you pay.
                         </div>
                     </div>
                 </div>
@@ -56,10 +58,11 @@
                     </h2>
                     <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
                         <div class="accordion-body">
-                            At Goldstar, our job is to assess your risks and exposures and engage the market
-                            for the products that will best protect
-                            you against losses at the most competitive rates. In the event of a loss, we facilitate
-                            the claims process to ensure that your valid claims are paid promptly.
+                            At Goldstar, our job is to assess your risks and exposures and engage 
+                            the market for the products that will best protect you against losses at 
+                            the most competitive rates. In the event of a loss, we facilitate the 
+                            claims process to ensure that your valid claims are paid promptly.
+
                         </div>
                     </div>
                 </div>

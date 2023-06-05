@@ -165,7 +165,7 @@ body {
     z-index: 50;
     width: 70%;
     margin: 0 15%;
-   border-radius: 30px;
+    border-radius: 30px;
     background-color: #232162;
 }
 
@@ -189,14 +189,14 @@ body {
 
 .mail-info {
     width: 100%;
-        border-right: 2px solid #e5af12;
-        padding: 0 5%;
-        padding-block: 20px;
-        color: #FFF;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        align-self: center;
+    border-right: 2px solid #e5af12;
+    padding: 0 5%;
+    padding-block: 20px;
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
 }
 
 .info {
@@ -226,9 +226,11 @@ body {
     margin-top: 10px;
     color: #232162;
 }
-.about-us h5{
+
+.about-us h5 {
     color: #e5af12;
 }
+
 /* CSS */
 .button-86 {
     all: unset;
@@ -301,7 +303,7 @@ body {
 
 .services-home {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     padding: 0 5%;
     margin-bottom: 50px;
     padding-block: 70px;
@@ -310,7 +312,7 @@ body {
 }
 
 .card {
-    width: 95%;
+    width: 98%;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
     border: none;
     background-color: #232162;
@@ -410,8 +412,12 @@ footer {
     background-color: #242263;
     padding: 0 5%;
     padding-block: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
-
+.ftt{
+    width: 97%;
+}
 .footer-logo {
     width: 300px;
     height: 70px;
@@ -499,6 +505,15 @@ footer {
             align-items: center;
             justify-content: space-between;}
 } */
+
+@media (max-width: 1368px) {
+    .footer{
+       display: grid;
+       grid-template-columns: 1fr 1fr;
+    }
+}
+
+
 @media (max-width:997px) {
     .swiper-text h1 {
         width: 100%;
@@ -523,13 +538,15 @@ footer {
         width: 100%;
         margin: 0 auto;
     }
-    .company-details{
+
+    .company-details {
         display: block;
         width: 90%;
-       margin: 0 5%;
+        margin: 0 5%;
 
     }
-    .mail-info{
+
+    .mail-info {
         border-top: 2px solid #e5af12;
         border-bottom: 2px solid #e5af12;
         margin-bottom: 20px;
@@ -572,14 +589,21 @@ footer {
     .cta-section {
         width: 90%;
     }
-        .d-flex {
-            display: block;
-            margin: 0 auto;
-            width: 100%;
-        }
-        .d-flex button{
-            display: block;
-            width: 100%;
-            margin: 0 20%;
-        }
+
+    .d-flex {
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .d-flex button {
+        display: block;
+        width: 100%;
+        margin: 0 20%;
+    }
+         .footer {
+             display: grid;
+             grid-template-columns: 1fr ;
+         }
 }
+

@@ -19,7 +19,7 @@
                 <div class="swiper-slide">
                     <img src="./images/board-of-directors.jpg" alt="">
                     <div class="swiper-text" data-aos-duration="1000" data-aos="flip-left">
-                        <h1>Our Board of Directions</h1>
+                        <h1>Our Board of Directors</h1>
                         <p>
                             Through our experienced and dedicated staff, supported by a diverse and
                             distinguished Board of Directors, we provide exceptional customer service
@@ -32,12 +32,10 @@
     </section>
 
     <section>
-        <h1 class="text-center">Our Board of Directions</h1>
+        <h1 class="text-center">Our Board of Directors</h1>
 
         <div class="profile" data-aos-duration="1000" data-aos="zoom-in-down">
-            <div class="profile-img">
 
-            </div>
             <div class="profile-text">
                 <h4>Chairman</h4>
                 <p>
@@ -68,6 +66,9 @@
                     (CILG).
 
                 </p>
+
+            </div>
+            <div class="profile-img">
 
             </div>
         </div>
@@ -106,11 +107,9 @@
         </div>
 
         <div class="profile" style="margin-bottom: 50px;" data-aos-duration="1000" data-aos="zoom-in">
-            <div class="profile-img ceo">
 
-            </div>
             <div class="profile-text">
-                <h4>Our C.E.O</h4>
+                <h4> Chief Executive Officer </h4>
                 <p>
                     Nana Dufie Amakye Ansah is an Associate of the Chartered Insurance Institute (ACII),
                     U.K., and an Associate of Chartered Insurance Institute of Ghana, (ACIIG), with over
@@ -129,6 +128,9 @@
                     She has attended a number of technical, management training programs and seminars to upgrade
                     her technical, managerial and entrepreneurial skills.
                 </p>
+            </div>
+            <div class="profile-img ceo">
+
             </div>
         </div>
     </section>

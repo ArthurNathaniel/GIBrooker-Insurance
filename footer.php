@@ -1,57 +1,58 @@
-    <footer>
-        <div class="row" >
-            <div class="col-3 ftt">
-                <div class="footer-logo">
+    <footer class="footer">
 
-                </div>
-                <br>
-                <p style="color:#FFF;">
-                    Thank you for visiting our site! We hope you found everything you were looking for.
-
-                </p>
-            </div>
-            <div class="col-md-3 links">
-                <h3>QUICK LINKS</h3>
-
-                <a href="index.php">Home</a>
-                <br>
-                <a href="about.php">About Us</a>
-                <br>
-                <a href="services.css">Services</a>
-                <br>
-                <a href="claims.php">Claims</a>
-                <br>
-
-
-
+        <div class="ftt">
+            <div class="footer-logo">
 
             </div>
-            <div class="col-md-3 links">
-                <h3>OUR SERVICES</h3>
-                <a href="services.php">Personal Insurance</a>
-                <br>
-                <a href="services.php">Business Insurance</a>
-                <br>
-                <a href="services.php">Life Insurance</a>
-                <br>
-                <a href="services.php">Health Insurance</a>
-                <br>
-            </div>
-            <div class="col-md-3 links">
-                <h3>CONTACT US</h3>
+            <br>
+            <p style="color:#FFF;">
+                Thank you for visiting our site! We hope you found everything you were looking for.
 
-                <a href=""><i class="fab fa-whatsapp"></i> / <i class="fas fa-phone"></i>
-                    020 565 6666 </a>
-                <br>
-                <a href=""><i class="fas fa-map-marker-alt"></i> Elinesis Water Park Oyarifa Ghana Flag
-                </a>
-                <br>
-                <a href=""><i class="far fa-envelope"></i> info@gibrokers.com</a>
-                <br>
-                <a href=""><i class="far fa-clock"></i> 9am to 5pm (Monday to Friday)</a>
-            </div>
+            </p>
+        </div>
+        <div class="links">
+            <h3>QUICK LINKS</h3>
+
+            <a href="index.php">Home</a>
+            <br>
+            <a href="about.php">About Us</a>
+            <br>
+            <a href="services.php">Services</a>
+            <br>
+            <a href="claims.php">Claims</a>
+            <br>
+
+
+
 
         </div>
+        <div class=" links">
+            <h3>OUR SERVICES</h3>
+            <a href="services.php">Personal Insurance</a>
+            <br>
+            <a href="services.php">Business Insurance</a>
+            <br>
+            <a href="services.php">Life Insurance</a>
+            <br>
+            <a href="services.php">Health Insurance</a>
+            <br>
+            <a href="services.php">Risk Management </a>
+        </div>
+        <div class=" links">
+            <h3>CONTACT US</h3>
+
+            <a href="tel:0205656666"><i class="fab fa-whatsapp"></i> / <i class="fas fa-phone"></i>
+                020 565 6666 </a>
+            <br>
+            <a href=""><i class="fas fa-map-marker-alt"></i> Elinesis Water Park Oyarifa Ghana Flag
+            </a>
+            <br>
+            <a href="mailto:info@gibrokers.com"><i class="far fa-envelope"></i> info@gibrokers.com</a>
+            <br>
+            <a href=""><i class="far fa-clock"></i> 9am to 4pm (Monday to Friday)</a>
+        </div>
+
+
     </footer>
 
     <!-- Animate on Scroll JS -->

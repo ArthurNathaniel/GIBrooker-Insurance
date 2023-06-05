@@ -50,7 +50,7 @@
                 <div class="set">
                     <h2><i class="fas fa-map-marker-alt"></i></h2>
                     <p>Visit our location to personally discuss your insurance needs and find tailored solutions.</p>
-                    <p><a href="tel:">Elinesis Water Park Oyarifa Ghana Flag</a></p>
+                    <p><a href="">Elinesis Water Park Oyarifa Ghana Flag</a></p>
                 </div>
 
             </div>

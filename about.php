@@ -33,15 +33,17 @@
             <h1>About Goldstar</h1>
             <h5>The Journey of Goldstar Insurance Brokers Ltd</h5>
             <p>
-                Goldstar Insurance Brokers Ltd. (Goldstar) was established in March 2018 as an Indigenous
-                Insurance Broker and Risk Management Consultancy. We are licensed by the National Insurance
-                Commission and we operate as a reliable intermediary between Insurance companies and
-                insureds. We have achieved success by delivering tailor-made insurance products,
-                results-oriented risk management initiatives, as well as excellent claims management
-                services for our clients. Over the years, we have offered noteworthy customer service
-                and sound technical advice to our clients through our highly experienced, skilled, and
-                dedicated staff regularly supported by our Board of Directors comprising distinguished
-                personalities drawn from diverse disciplines and business areas.
+                Goldstar Insurance Brokers Ltd. (Goldstar) was established in
+                March 2018 as an Indigenous Insurance Broker and Risk Management
+                Consultancy. We are licensed by the National Insurance Commission,
+                and we operate as a reliable intermediary between insurance companies
+                and insureds. We have achieved success by delivering tailor-made insurance
+                products, results-oriented risk management initiatives, and excellent claims
+                management services for our clients. Over the years, we have offered noteworthy
+                customer service and sound technical advice to our clients through our highly
+                experienced, skilled, and dedicated staff, regularly supported by our Board of
+                Directors, which comprises distinguished personalities drawn from diverse disciplines
+                and business areas.
             </p>
 
         </div>
@@ -53,23 +55,17 @@
             <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                 <h1><i class="fas fa-check-circle"></i></h1>
                 <h4>We offer Quality and Prompt Service</h4>
-                <p>
-                    Goldstar Insurance Brokers Ltd. is committed to providing quality and prompt service to its clients.
-                </p>
+
             </div>
             <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
                 <h1><i class="fas fa-dollar-sign"></i></h1>
                 <h4>We offer competitive prices</h4>
-                <p>
-                    Goldstar Insurance Brokers Ltd. offers competitive prices, ensuring affordability for our clients.
-                </p>
+
             </div>
             <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <h1><i class="fas fa-handshake"></i></h1>
-                <h4>We offer professional and Customer centrist products and services</h4>
-                <p>
-                    We are dedicated to providing professional and customer-centric products and services.
-                </p>
+                <h4>We offer professional and customer-centered products and services</h4>
+
             </div>
         </div>
     </section>

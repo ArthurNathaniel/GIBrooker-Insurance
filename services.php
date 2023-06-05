@@ -40,7 +40,7 @@
                 <img class="card-img-top" src="images/personal.jpg" alt="personal-insurance" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Personal Insurance</h4>
-                    <p class="card-text">Personal insurance provides financial protection for individuals and their families against unexpected events and risks..</p>
+                    <p class="card-text">Personal insurance provides financial protection for individuals and their families against unexpected events and risks....</p>
                     <button class="button-86" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#personalModal">View Packages</button>
                 </div>
             </div>
@@ -211,6 +211,49 @@
                             <li> Employee based Health Policy</li>
 
 
+
+                        </ul>
+                        <!-- Your contact form goes here -->
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="button-86" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="one" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
+            <div class="card2">
+                <img class="card-img-top" src="images/risk.jpg" alt="personal-insurance" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Risk Management</h4>
+                    <p class="card-text">Risk identification and analysis
+                        leading to accurate measurement of risks and prudent risk financing options. </p>
+                    <button class="button-86" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#riskModal">View Packages</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="riskModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="contactModalLabel">Risk Management</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <p class="modal-description"> <i>
+                                <p>We serve our customers at high standards by keeping our promises. </p>
+                            </i></p>
+                        <ul>
+                            <li> Property loss prevention control</li>
+                            <li> Post loss surveys</li>
+                            <li> Product liability hazard analysis </li>
+                            <li> Employee safety</li>
+                            <li> Contingency planning program</li>
+                            <li> Business interruption analysis</li>
 
                         </ul>
                         <!-- Your contact form goes here -->

@@ -49,28 +49,30 @@
             <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                 <h3>Risk management services</h3>
                 <p>
-                    Our in-house Risk Management Services team renders customized services aimed at
-                    identifying direct, counter-party and third party risk exposures, minimize the potential
-                    for downtime, and mitigate or avoid losses. We prescribe risk control measures and
-                    insurance solutions where and when deemed necessary and we provide these services
-                    in collaboration with our business partners such as our insurers, re-insurers, and
-                    independent risk assessors and engineers.
+                    Our in-house Risk Management Services team renders customized
+                    services aimed at identifying direct, counter-party, and third-party
+                    risk exposures, minimizing the potential for downtime, and mitigating
+                    or avoiding losses. We prescribe risk control measures and insurance
+                    solutions where and when deemed necessary, and we provide these services
+                    in collaboration with our business partners, such as our insurers,
+                    re-insurers, and independent risk assessors and engineers.
                 </p>
             </div>
             <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1400">
                 <h3>Claims handling and management</h3>
                 <p>
-                    Our claims handling is noted for its promptness, fairness and quality. This achievement
-                    is the result of our: enhanced claims management policies and processes; notification
-                    procedures into insurance policies/documents to educate clients on their role in
-                    expeditious claims payment; daily monitoring of claims-related activities; and
-                    commitment to customer satisfaction.
+                    Our claims handling is noted for its promptness,
+                    fairness, and quality. This achievement is the result of our
+                    enhanced claims management policies and processes; the incorporation
+                    of notification procedures into insurance policies and documents to educate
+                    clients on their role in expeditious claims payment; the daily monitoring of
+                    claims-related activities; and our commitment to customer satisfaction.
                 </p>
             </div>
             <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1800">
                 <h3>Insurance audit:</h3>
                 <p>
-                    Customers’ risk exposures and insurance needs change from time-to-time. Therefore, as
+                    Customers’ risk exposures and insurance needs change from time to time. Therefore, as
                     part of our customer care requirements, we conduct periodic insurance audits for our
                     major and large clients at no cost to them. The findings from the audits are used to
                     make appropriate insurance and risk control recommendations.
@@ -79,13 +81,14 @@
             <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <h3>Third-party capacity building</h3>
                 <p>
-                    Some of our clients have in-house insurance units or officers tasked to handle the
-                    clients’ insurance policies and other insurance risks-related matters. We support such
-                    clients (at our own expense) through third party capacity building interventions – which
-                    involves providing training and education for the in-house officers. The third-party
-                    capacity building focuses on key issues including but not limited to: assessing insurance
-                    needs and adequacy of insurance cover; in-house insurance administration; loss prevention
-                    and loss minimization strategies.
+                    Some of our clients have in-house insurance units or officers 
+                    tasked with handling the clients’ insurance policies and other 
+                    insurance-related matters. We support such clients (at our own expense) 
+                    through third-party capacity-building interventions, which involve providing 
+                    training and education for the in-house officers. Third-party capacity building 
+                    focuses on key issues, including but not limited to: assessing insurance needs 
+                    and the adequacy of insurance cover; in-house insurance administration; and loss 
+                    prevention and loss minimization strategies.
                 </p>
             </div>
         </div>

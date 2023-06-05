@@ -32,20 +32,23 @@
             <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                 <h1>OUR VISION</h1>
                 <p>
-                    The founders of Goldstar Insurance Brokers Ltd envisions an innovative company for insurance
-                    intermediary services. We aim to position ourselves among the best and the customer’s first
-                    choice for the provision of insurance intermediary and risk management services in Ghana. To
-                    this end, we shall be guided by our values of integrity, professionalism and a commitment to
-                    people and all our stakeholders.
+                    The founders of Goldstar Insurance Brokers Ltd. envision an
+                    innovative company for insurance intermediary services.
+                    We aim to position ourselves among the best and the customer’s
+                    first choice for the provision of insurance intermediary and risk
+                    management services in Ghana. To this end, we shall be guided by our
+                    values of integrity, professionalism, and a commitment to people
+                    and all our stakeholders.
                 </p>
             </div>
             <div class="one" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
                 <h1>OUR MISSION</h1>
                 <p>
-                    To deploy the talents and experiences of our team in offering comprehensive and reliable
-                    advice aimed at keeping the promises made by the insurance solutions and advisory
-                    services we provide. With our values as a guide, our priority is to build lasting
-                    partnerships with our customers and other stakeholders in the attainment of our goals.
+                    To deploy the talents and experiences of our team in
+                    offering comprehensive and reliable advice aimed at keeping
+                    the promises made by the insurance solutions and advisory services
+                    we provide. With our values as a guide, our priority is to build
+                    lasting partnerships with our customers and other stakeholders to attain our goals.
                 </p>
             </div>
         </div>
@@ -53,24 +56,25 @@
             <div class="me" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <h1>OUR CORE VALUES</h1>
                 <p>
-                    <b>1. Integrity:</b> operate in a fair, transparent and equitable manner by ensuring that
-                    advisory services and recommended products are suitable for each clients’ individual
-                    peculiar circumstances in terms of price and cover. We will endeavour to do what is
-                    right for the customer at all times in protecting their assets and lives
+                    <b>1. Integrity:</b> operate in a fair, transparent, and equitable
+                    manner by ensuring that advisory services and recommended products
+                    are suitable for each client's individual peculiar circumstances in
+                    terms of price and cover. We will endeavor to do what is right
+                    for the customer at all times in protecting their assets and lives.
                     <br>
-                    <b> 2. Proffesionalism:</b> We strive to be consistent in providing superior service using the
-                    code of conduct of our industry as a valid parameter for our daily engagement with our
-                    clients.
+                    <b> 2. Proffesionalism:</b> We strive to be consistent in providing superior service, using the code of conduct of our industry as a valid parameter for our daily engagement with our clients.
                     <br>
                     <b>3. A culture of excellence and innovation:</b> - We Strive to deploy state of the art innovative
                     technology in the provision of services to ensure convenience and cost effective platforms
                     in the delivery of our services.
                     <br>
-                    <b>4. Commitment to people.</b> The success of Goldstar is predicated on the success of all its
-                    stakeholder;
+                    <b>4. Commitment to people.</b> We strive to deploy state-of-the art innovative
+                    technology in the provision of services to ensure convenience and cost-effective platforms
+                    for the delivery of our services.
                     <br>
-                    <b>Customer Focus - Keeping our promises :</b> Our priority is to provide our clients with professional
-                    and high- quality services that are tailored to their specific insurance and risk management concerns.
+                    <b>Customer Focus - Keeping our promises :</b> Our priority is to provide our 
+                    clients with professional and high-quality services that are tailored to their 
+                    specific insurance and risk management concerns.
                 </p>
             </div>
         </div>
