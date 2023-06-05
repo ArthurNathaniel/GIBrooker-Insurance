@@ -37,31 +37,31 @@
                 Please use the form below to submit claims online. We will get back to you as soon as possible.
             </p>
             <div class="claims">
-                <form action="" onclick="preventReload(event)">
+                <form class="form">
                     <div class="claims-input">
                         <label>Name:</label>
                         <br>
-                        <input type="text" id="name" name="name" placeholder="Enter your name">
+                        <input type="text" id="name" name="name" placeholder="Enter your name" required>
                     </div>
                     <div class="claims-input">
                         <label>Address:</label>
                         <br>
-                        <input type="text" id="address" placeholder="Enter your  address">
+                        <input type="text" id="address" placeholder="Enter your  address" required>
                     </div>
                     <div class="claims-input">
                         <label>Phone number:</label>
                         <br>
-                        <input type="number" min="0" id="number" placeholder="Enter your phone number">
+                        <input type="number" min="0" id="number" placeholder="Enter your phone number" required>
                     </div>
                     <div class="claims-input">
                         <label>Email:</label>
                         <br>
-                        <input type="email" id="email" placeholder="Enter your email address">
+                        <input type="email" id="email" placeholder="Enter your email address" required>
                     </div>
                     <div class="claims-input">
                         <label>Type of Claims:</label>
                         <br>
-                        <select name="claims" id="claims">
+                        <select name="claims" id="claims" required>
                             <option value="Motor Insurance">Motor Insurance</option>
                             <option value="Life Insurance">Life Insurance</option>
                             <option value="Travel Insurance">Travel Insurance</option>
@@ -74,7 +74,11 @@
                             <option value="Assets Alll Risk Insurance">Assets Alll Risk Insurance</option>
                             <option value="All Bonds Insurance">All Bonds Insurance</option>
                             <div class="claims-submit">
-                                <input type="submit" value="Submit" style="background-color: #242263; color:#FFF;" onclick="sendMail()" data-bs-toggle="modal" data-bs-target="#myModal">
+                                <input type="submit" class="submit-btn" value="Submit" style="background-color: #242263; color:#FFF;">
+                                <input type="hidden" class="modal-input" name="" data-bs-toggle="modal" data-bs-target="#myModal">
+                                <div class="hidden-note" style="display:none">
+                                    <small style="display:hidden">couldn't send claim, please check your internet connection and try again</small>
+                                </div>
                             </div>
                 </form>
             </div>
@@ -129,6 +133,16 @@
         })();
     </script>
     <script>
+        let modal = document.querySelector('.modal-input');
+        let form = document.querySelector('.form');
+        let sbtb = document.querySelector('.submit-btn');
+        let hidenNote = document.querySelector('.hidden-note');
+
+
+        form.addEventListener('submit', function(event) {
+            event.preventDefault();
+            sendMail();
+        })
         sendMail = () => {
             var params = {
                 name: document.getElementById('name').value,
@@ -141,17 +155,39 @@
             const serviceID = 'service_fkuhb0h'
             const templateID = 'template_307w5gb'
 
+            sbtb.value = 'please wait....'
+            sbtb.setAttribute('disabled', true);
+
 
             document.getElementById('user').innerHTML = document.getElementById('name').value
             emailjs.send(serviceID, templateID, params)
                 .then(() => {
                     console.log('successfully');
+                    modal.click();
                     document.getElementById('name').value = '',
                         document.getElementById('address').value = '',
                         document.getElementById('email').value = '',
                         document.getElementById('number').value = '',
                         document.getElementById('claims').value = '';
+
+                    sbtb.value = "Submit";
+                    // sbtb.setAttribute('disabled', false);
+                    sbtb.removeAttribute('disabled');
                 })
+                .catch((err) => {
+                    sbtb.value = "Submit";
+                    // sbtb.setAttribute('disabled', false);
+                    sbtb.removeAttribute('disabled');
+
+                    hidenNote.setAttribute('style', 'display:block');
+
+                    setTimeout(() => {
+                        hidenNote.setAttribute('style', 'display:none');
+                    }, 3000);
+                    // sbtb.value = 'couldn\'t send claim, please check your internet connection and try again'
+                    // sbtb.setAttribute('disabled', false);
+                    console.log('error sending request', err);
+                });
         }
     </script>
 

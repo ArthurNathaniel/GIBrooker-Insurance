@@ -42,10 +42,8 @@
                     <a class="nav-link" href="contact.php">Contact Us</a>
                 </li>
             </ul>
-            <div class="d-flex btn">
-                <button>
+            <div class="d-flex btn">              
                     <a href="get_a_quote.php" style="text-decoration: none; color:#FFF;">Get a Quote</a>
-                </button>
             </div>
         </div>
     </div>

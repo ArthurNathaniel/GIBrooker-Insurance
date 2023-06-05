@@ -48,18 +48,17 @@ label {
 }
 
 .claims-submit input {
-    padding: 15px 55px;
     border-radius: 5px;
     background-color: #e5af12;
     border: none;
     color: #fff;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     transition: transform 0.3s ease;
+    padding: 15px;
+    text-align: center;
 }
 
-.claims-submit input:hover {
-    transform: perspective(500px) rotateY(30deg);
-}
+
 
 
 

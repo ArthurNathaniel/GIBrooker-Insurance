@@ -36,7 +36,7 @@
                 Please utilize the form provided below to request a quote.
                 We will promptly respond to your inquiry. </p>
             <div class="claims">
-                <form action="" onclick="preventReload(event)">
+                <form class="form">
                     <div class="claims-input">
                         <label>Your Name / Business Name *:</label>
                         <br>
@@ -56,7 +56,13 @@
                     </div>
 
                     <div class="claims-submit">
-                        <input type="submit" value="Get a Quote" onclick="sendMail()" data-bs-toggle="modal" data-bs-target="#myModal">
+                        <!-- <input type="submit" value="Get a Quote" onclick="sendMail()" data-bs-toggle="modal" data-bs-target="#myModal"> -->
+
+                        <input type="submit" class="submit-btn claims-submit" value="Submit" style="background-color: #242263; color:#FFF;">
+                        <input type="hidden" class="modal-input" name="" data-bs-toggle="modal" data-bs-target="#myModal">
+                        <div class="hidden-note" style="display:none">
+                            <small style="display:hidden">couldn't send quote, please check your internet connection and try again</small>
+                        </div>
                     </div>
                 </form>
             </div>
@@ -111,26 +117,86 @@
         })();
     </script>
     <script>
+        let modal = document.querySelector('.modal-input');
+        let form = document.querySelector('.form');
+        let sbtb = document.querySelector('.submit-btn');
+        let hidenNote = document.querySelector('.hidden-note');
+
+
+        form.addEventListener('submit', function(event) {
+            event.preventDefault();
+            sendMail();
+        })
+
         sendMail = () => {
             var params = {
                 name: document.getElementById('name').value,
                 email: document.getElementById('email').value,
                 number: document.getElementById('number').value,
+
             }
 
             const serviceID = 'service_fkuhb0h'
-            const templateID = 'template_u93sbvv'
+            const templateID = 'template_307w5gb'
+
+            sbtb.value = 'please wait....'
+            sbtb.setAttribute('disabled', true);
 
 
             document.getElementById('user').innerHTML = document.getElementById('name').value
             emailjs.send(serviceID, templateID, params)
                 .then(() => {
                     console.log('successfully');
+                    modal.click();
+                    console.log('successfully');
                     document.getElementById('name').value = '',
-                    document.getElementById('email').value = '',
-                    document.getElementById('number').value = ''
+                        document.getElementById('email').value = '',
+                        document.getElementById('number').value = ''
+
+                    sbtb.value = "Submit";
+                    // sbtb.setAttribute('disabled', false);
+                    sbtb.removeAttribute('disabled');
                 })
+                .catch((err) => {
+                    sbtb.value = "Submit";
+                    // sbtb.setAttribute('disabled', false);
+                    sbtb.removeAttribute('disabled');
+
+                    hidenNote.setAttribute('style', 'display:block');
+
+                    setTimeout(() => {
+                        hidenNote.setAttribute('style', 'display:none');
+                    }, 3000);
+                    // sbtb.value = 'couldn\'t send claim, please check your internet connection and try again'
+                    // sbtb.setAttribute('disabled', false);
+                    console.log('error sending request', err);
+                });
         }
+
+
+
+
+
+        // sendMail = () => {
+        //     var params = {
+        //         name: document.getElementById('name').value,
+        //         email: document.getElementById('email').value,
+        //         number: document.getElementById('number').value,
+        //     }
+
+        //     const serviceID = 'service_fkuhb0h'
+        //     const templateID = 'template_u93sbvv'
+
+
+        //     document.getElementById('user').innerHTML = document.getElementById('name').value
+        //     emailjs.send(serviceID, templateID, params)
+        //         .then(() => {
+        //             console.log('successfully');
+        //             document.getElementById('name').value = '',
+        //                 document.getElementById('email').value = '',
+        //                 document.getElementById('number').value = ''
+        //         })
+        // }
     </script>
 
 

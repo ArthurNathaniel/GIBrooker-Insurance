@@ -41,7 +41,7 @@ body {
     color: #000;
 }
 
-.btn button {
+.btn a {
     padding: 15px 45px;
     background-color: #e5af12;
     border: none;
@@ -51,9 +51,7 @@ body {
     box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 }
 
-.btn button:hover {
-    transform: perspective(500px) rotateY(30deg);
-}
+
 
 /*  Hero page */
 .swiper {
@@ -574,4 +572,14 @@ footer {
     .cta-section {
         width: 90%;
     }
+        .d-flex {
+            display: block;
+            margin: 0 auto;
+            width: 100%;
+        }
+        .d-flex button{
+            display: block;
+            width: 100%;
+            margin: 0 20%;
+        }
 }

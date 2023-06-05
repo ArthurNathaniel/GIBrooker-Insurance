@@ -58,9 +58,7 @@ label {
     transition: transform 0.3s ease;
 }
 
-.claims-submit input:hover {
-    transform: perspective(500px) rotateY(30deg);
-}
+
 
 @media (max-width:957px) {
     .swiper-text h1, .swiper-text p, .swiper-text{

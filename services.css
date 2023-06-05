@@ -27,6 +27,10 @@
 
 
 @media (max-width:957px) {
+    .swiper-text, .swiper-text h1, .swiper-text p{
+        width: 100%;
+        padding: 0 5%;
+    }
     .service{
         display: block;
         width: 100%;
