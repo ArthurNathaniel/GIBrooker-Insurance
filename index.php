@@ -354,25 +354,25 @@
                     <div class="forms-input">
                         <label>Your Name/ Busuiness Name :</label>
                         <br>
-                        <input type="text" id="name" placeholder="Enter your name or business name">
+                        <input type="text" id="name" placeholder="Enter your name or business name" required>
                     </div>
 
                     <div class="forms-input">
                         <label>Your Email : </label>
                         <br>
-                        <input type="email" id="email" placeholder="Enter your email address">
+                        <input type="email" id="email" placeholder="Enter your email address" required>
                     </div>
 
                     <div class="forms-input">
                         <label>Your Phone Number :</label>
                         <br>
-                        <input type="number" id="number" min="0" placeholder="Enter your phone  number">
+                        <input type="number" id="number" min="0" placeholder="Enter your phone  number" required>
                     </div>
 
                     <div class="forms-input">
                         <label>Your WhatsApp Number :</label>
                         <br>
-                        <input type="number" id="w_number" min="0" placeholder="Enter your whatsapp number">
+                        <input type="number" id="w_number" min="0" placeholder="Enter your whatsapp number" required>
                     </div>
 
                     <div class="claims-submit">

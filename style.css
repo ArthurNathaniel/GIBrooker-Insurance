@@ -333,7 +333,11 @@ body {
     color: #232162;
     text-decoration: none;
 }
-
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 /* quote" */
 .quote {
     display: grid;
